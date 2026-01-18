@@ -1,7 +1,7 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Phan Thanh Tín</h1>
 <p align="center">
-  <h3 align="center">I have a passion for the data field and desire to continuously learn and develop. I'm Tin, a data analyst with over 1 year of experience in logistics and operations. I specialize in using Python and data visualization tools to analyze and solve business problems. With a progressive spirit and enthusiasm, I am committed to delivering excellent results. I hope to advance my career in a professional environment where I can maximize my skills and contribute to the company's success. </h3>
+  <h3 align="center">I have a passion for the data field and desire to continuously learn and develop. I'm Tin, a data analyst with over 1 year of experience in logistics and operations.  </h3>
 </p>
 
 
